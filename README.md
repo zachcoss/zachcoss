@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachcoss
-- 👀 I’m interested in Full Stack JavaScript, Vue and AWS projects.
+- 👀 I’m interested in Full Stack JavaScript, Vue, Angular, React and AWS projects.
 - 🌱 I’m currently applying for full stack roles in the US.
 - 💞️ I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me: zacharycoss@gmail.com
